@@ -1,2 +1,2 @@
 #!/bin/sh
-/usr/bin/python hello.py
+/usr/local/bin/uwsgi --ini uwsgi.ini
